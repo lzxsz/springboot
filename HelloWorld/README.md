@@ -1,5 +1,6 @@
 1.Startup in Linux  
-start run command: java -jar helloworld-0.0.1-SNAPSHOT.jar  
+start command:  
+java -jar helloworld-0.0.1-SNAPSHOT.jar  
 
 2.Test  
 http://localhost:8081/demo/helloworld  
